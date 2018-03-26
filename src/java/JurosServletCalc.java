@@ -50,7 +50,7 @@ public class JurosServletCalc extends HttpServlet {
             out.println("<body>");
             
             
-            /* EXERCICIO c*/
+          
             out.println("<table>");
 
             out.println("<tr>");
